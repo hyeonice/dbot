@@ -40,4 +40,4 @@ async def seoyoung(ctx):
     await ctx.send("빈아 넌 왜사는데?")
     
 
-app.run('Nzk5Mjg0MTI3MDgwNjQ0Njg5.YABVWQ.YhFFnWZA_wzIhBY98jwXVgw-uzQ')
+app.run('Nzk5Mjg0MTI3MDgwNjQ0Njg5.YABVWQ.Zf2t6Jo4IigVPJm45mqamvtIVgg')
